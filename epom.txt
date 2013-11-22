@@ -1,0 +1,399 @@
+[INFO] Scanning for projects...
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-help-plugin/maven-metadata.xml
+493/493 B               Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-help-plugin/maven-metadata.xml (493 B at 0.5 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-help-plugin/2.2/maven-help-plugin-2.2.pom
+1/9 KB      5/9 KB   9/9 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-help-plugin/2.2/maven-help-plugin-2.2.pom (9 KB at 16.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/24/maven-plugins-24.pom
+1/11 KB   5/11 KB   9/11 KB   11/11 KB              Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/24/maven-plugins-24.pom (11 KB at 20.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-help-plugin/2.2/maven-help-plugin-2.2.jar
+1/67 KB    5/67 KB   9/67 KB   13/67 KB   14/67 KB   15/67 KB   17/67 KB   18/67 KB   19/67 KB   20/67 KB   22/67 KB   24/67 KB   25/67 KB   26/67 KB   27/67 KB   28/67 KB   29/67 KB   31/67 KB   32/67 KB   33/67 KB   34/67 KB   35/67 KB   36/67 KB   38/67 KB   39/67 KB   40/67 KB   41/67 KB   42/67 KB   43/67 KB   45/67 KB   46/67 KB   47/67 KB   48/67 KB   49/67 KB   51/67 KB   52/67 KB   53/67 KB   54/67 KB   55/67 KB   56/67 KB   58/67 KB   59/67 KB   60/67 KB   61/67 KB   62/67 KB   63/67 KB   65/67 KB   66/67 KB   67/67 KB              Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-help-plugin/2.2/maven-help-plugin-2.2.jar (67 KB at 66.4 KB/sec)
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Simple Java Maven Project 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-help-plugin:2.2:effective-pom (default-cli) @ example-java-maven ---
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.pom
+1/2 KB     2/2 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.pom (2 KB at 2.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven/2.2.1/maven-2.2.1.pom
+1/22 KB   5/22 KB   9/22 KB   11/22 KB   12/22 KB   13/22 KB   14/22 KB   15/22 KB   17/22 KB   18/22 KB   19/22 KB   20/22 KB   21/22 KB   22/22 KB              Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven/2.2.1/maven-2.2.1.pom (22 KB at 38.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.2.1/maven-core-2.2.1.pom
+1/12 KB    5/12 KB   9/12 KB   12/12 KB              Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.2.1/maven-core-2.2.1.pom (12 KB at 21.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.pom
+1/3 KB     3/3 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.pom (3 KB at 4.1 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.pom
+1/4 KB   4/4 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.pom (4 KB at 6.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/maven-plugin-parameter-documenter-2.2.1.pom
+1/2 KB   2/2 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/maven-plugin-parameter-documenter-2.2.1.pom (2 KB at 3.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.pom
+1/2 KB   2/2 KB            Downloaded: http://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.pom (2 KB at 3.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.6/slf4j-parent-1.5.6.pom
+1/8 KB   4/8 KB   5/8 KB   6/8 KB   7/8 KB   8/8 KB            Downloaded: http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.6/slf4j-parent-1.5.6.pom (8 KB at 15.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.pom
+1/3 KB   3/3 KB            Downloaded: http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.pom (3 KB at 5.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.pom
+1/3 KB   3/3 KB            Downloaded: http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.pom (3 KB at 4.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.pom
+1/2 KB   2/2 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.pom (2 KB at 3.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.2.1/maven-reporting-2.2.1.pom
+1/2 KB   2/2 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.2.1/maven-reporting-2.2.1.pom (2 KB at 2.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.1/doxia-sink-api-1.1.pom
+1/2 KB   2/2 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.1/doxia-sink-api-1.1.pom (2 KB at 3.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.1/doxia-1.1.pom
+1/15 KB   5/15 KB   9/15 KB   11/15 KB   12/15 KB   13/15 KB   14/15 KB   15/15 KB              Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.1/doxia-1.1.pom (15 KB at 27.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.pom
+1/2 KB     2/2 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.pom (2 KB at 2.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-30/plexus-container-default-1.0-alpha-30.pom
+1/4 KB   4/4 KB            Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-30/plexus-container-default-1.0-alpha-30.pom (4 KB at 6.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0-alpha-30/plexus-containers-1.0-alpha-30.pom
+1/2 KB   2/2 KB            Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0-alpha-30/plexus-containers-1.0-alpha-30.pom (2 KB at 3.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.5/plexus-utils-1.4.5.pom
+1/3 KB   3/3 KB            Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.5/plexus-utils-1.4.5.pom (3 KB at 4.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/1.2-alpha-9/plexus-classworlds-1.2-alpha-9.pom
+1/4 KB   4/4 KB            Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/1.2-alpha-9/plexus-classworlds-1.2-alpha-9.pom (4 KB at 5.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.10/plexus-1.0.10.pom
+1/9 KB   5/9 KB   6/9 KB   7/9 KB   9/9 KB            Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.10/plexus-1.0.10.pom (9 KB at 15.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.pom
+1/3 KB   3/3 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.pom (3 KB at 4.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1.pom
+1/2 KB   2/2 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1.pom (2 KB at 3.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-2.2.1.pom
+1/2 KB   2/2 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-2.2.1.pom (2 KB at 3.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.pom
+1/3 KB   3/3 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.pom (3 KB at 5.0 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1.pom
+1/4 KB   4/4 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1.pom (4 KB at 5.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1.pom
+1/2 KB   2/2 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1.pom (2 KB at 3.5 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2.pom
+1/8 KB   5/8 KB   8/8 KB            Downloaded: http://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2.pom (8 KB at 15.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/11/commons-parent-11.pom
+1/25 KB   5/25 KB   7/25 KB   8/25 KB   10/25 KB   11/25 KB   12/25 KB   13/25 KB   14/25 KB   15/25 KB   17/25 KB   18/25 KB   19/25 KB   20/25 KB   21/25 KB   22/25 KB   24/25 KB   25/25 KB              Downloaded: http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/11/commons-parent-11.pom (25 KB at 46.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.pom
+1/2 KB     2/2 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.pom (2 KB at 2.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-2.2.1.pom
+1/3 KB   3/3 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-2.2.1.pom (3 KB at 3.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.2.1/maven-monitor-2.2.1.pom
+1/2 KB   2/2 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.2.1/maven-monitor-2.2.1.pom (2 KB at 2.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.pom
+1/3 KB   3/3 KB            Downloaded: http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.pom (3 KB at 5.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/12/spice-parent-12.pom
+1/7 KB   5/7 KB   7/7 KB            Downloaded: http://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/12/spice-parent-12.pom (7 KB at 12.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/4/forge-parent-4.pom
+1/9 KB   5/9 KB   9/9 KB            Downloaded: http://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/4/forge-parent-4.pom (9 KB at 15.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.pom
+1/3 KB   3/3 KB            Downloaded: http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.pom (3 KB at 3.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/2.4.3/maven-plugin-tools-api-2.4.3.pom
+1/5 KB   5/5 KB   5/5 KB            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/2.4.3/maven-plugin-tools-api-2.4.3.pom (5 KB at 8.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/2.4.3/maven-plugin-tools-2.4.3.pom
+1/10 KB   5/10 KB   6/10 KB   7/10 KB   8/10 KB   10/10 KB   10/10 KB              Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/2.4.3/maven-plugin-tools-2.4.3.pom (10 KB at 18.1 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/jtidy/jtidy/4aug2000r7-dev/jtidy-4aug2000r7-dev.pom
+1/2 KB     2/2 KB            Downloaded: http://repo.maven.apache.org/maven2/jtidy/jtidy/4aug2000r7-dev/jtidy-4aug2000r7-dev.pom (2 KB at 2.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-7/plexus-container-default-1.0-alpha-7.pom
+1/2 KB   2/2 KB            Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-7/plexus-container-default-1.0-alpha-7.pom (2 KB at 2.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/plexus/plexus-containers/1.0.2/plexus-containers-1.0.2.pom
+471/471 B               Downloaded: http://repo.maven.apache.org/maven2/plexus/plexus-containers/1.0.2/plexus-containers-1.0.2.pom (471 B at 0.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/plexus/plexus-root/1.0.3/plexus-root-1.0.3.pom
+1/6 KB      4/6 KB   5/6 KB   6/6 KB   6/6 KB            Downloaded: http://repo.maven.apache.org/maven2/plexus/plexus-root/1.0.3/plexus-root-1.0.3.pom (6 KB at 11.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.7/plexus-utils-1.5.7.pom
+1/8 KB   5/8 KB   6/8 KB   7/8 KB   8/8 KB   8/8 KB            Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.7/plexus-utils-1.5.7.pom (8 KB at 15.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.3/xstream-1.4.3.pom
+1/9 KB   4/9 KB   5/9 KB   6/9 KB   7/9 KB   8/9 KB   9/9 KB            Downloaded: http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.3/xstream-1.4.3.pom (9 KB at 16.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.3/xstream-parent-1.4.3.pom
+1/19 KB   4/19 KB   5/19 KB   6/19 KB   7/19 KB   8/19 KB   10/19 KB   11/19 KB   12/19 KB   13/19 KB   14/19 KB   15/19 KB   17/19 KB   18/19 KB   19/19 KB   19/19 KB              Downloaded: http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.3/xstream-parent-1.4.3.pom (19 KB at 35.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/3/codehaus-parent-3.pom
+1/5 KB     5/5 KB            Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/3/codehaus-parent-3.pom (5 KB at 7.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.pom
+386/386 B               Downloaded: http://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.pom (386 B at 0.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+1/2 KB      2/2 KB            Downloaded: http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom (2 KB at 3.0 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4.pom
+1/14 KB   5/14 KB   6/14 KB   7/14 KB   8/14 KB   10/14 KB   11/14 KB   12/14 KB   13/14 KB   14/14 KB              Downloaded: http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4.pom (14 KB at 27.0 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.jar
+Downloading: http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.jar
+Downloading: http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.jar
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.jar
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.1/doxia-sink-api-1.1.jar
+1/9 KB     5/9 KB   6/9 KB   7/9 KB   8/9 KB   9/9 KB   1/13 KB   9/9 KB   5/13 KB   9/9 KB   6/13 KB   9/9 KB   7/13 KB   9/9 KB   8/13 KB   9/9 KB   10/13 KB   9/9 KB   11/13 KB   9/9 KB   12/13 KB   9/9 KB   12/13 KB   9/9 KB   1/22 KB   12/13 KB   9/9 KB   5/22 KB   12/13 KB   9/9 KB   6/22 KB   12/13 KB   9/9 KB   7/22 KB   12/13 KB   9/9 KB   8/22 KB   12/13 KB   9/9 KB   10/22 KB   12/13 KB   9/9 KB   11/22 KB   12/13 KB   9/9 KB   12/22 KB   12/13 KB   9/9 KB   12/22 KB   1/10 KB   12/13 KB   9/9 KB   12/22 KB   5/10 KB   12/13 KB   9/9 KB   12/22 KB   6/10 KB   12/13 KB   9/9 KB   12/22 KB   7/10 KB   12/13 KB   9/9 KB   12/22 KB   8/10 KB   12/13 KB   9/9 KB   12/22 KB   10/10 KB   12/13 KB   9/9 KB   12/22 KB   10/10 KB   2/17 KB   12/13 KB   9/9 KB   12/22 KB   10/10 KB   6/17 KB   12/13 KB   9/9 KB   12/22 KB   10/10 KB   7/17 KB   12/13 KB   9/9 KB   12/22 KB   10/10 KB   8/17 KB   12/13 KB   9/9 KB   12/22 KB   10/10 KB   10/17 KB   12/13 KB   9/9 KB   12/22 KB   10/10 KB   11/17 KB   12/13 KB   9/9 KB   12/22 KB   10/10 KB   12/17 KB   12/13 KB   9/9 KB   12/22 KB   10/10 KB                                                        Downloaded: http://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.jar (9 KB at 17.1 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.jar
+12/17 KB   13/13 KB   12/22 KB   10/10 KB            12/17 KB   13/13 KB   13/22 KB   10/10 KB   12/17 KB   13/13 KB   14/22 KB   10/10 KB   12/17 KB   13/13 KB   15/22 KB   10/10 KB   12/17 KB   13/13 KB   17/22 KB   10/10 KB   12/17 KB   13/13 KB   18/22 KB   10/10 KB   12/17 KB   13/13 KB   19/22 KB   10/10 KB   12/17 KB   13/13 KB   20/22 KB   10/10 KB   12/17 KB   13/13 KB   21/22 KB   10/10 KB   12/17 KB   13/13 KB   22/22 KB   10/10 KB   13/17 KB   13/13 KB   22/22 KB   10/10 KB   14/17 KB   13/13 KB   22/22 KB   10/10 KB   15/17 KB   13/13 KB   22/22 KB   10/10 KB   17/17 KB   13/13 KB   22/22 KB   10/10 KB   17/17 KB   13/13 KB   22/22 KB   10/10 KB                                               Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.jar (10 KB at 17.1 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2.jar
+                                            Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.1/doxia-sink-api-1.1.jar (13 KB at 18.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar
+                                            Downloaded: http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.jar (22 KB at 30.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar
+                                            Downloaded: http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.jar (17 KB at 22.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/2.4.3/maven-plugin-tools-api-2.4.3.jar
+1/41 KB                                     5/41 KB   7/41 KB   8/41 KB   10/41 KB   11/41 KB   12/41 KB   13/41 KB   14/41 KB   15/41 KB   15/41 KB   1/12 KB   15/41 KB   5/12 KB   15/41 KB   7/12 KB   15/41 KB   8/12 KB   15/41 KB   10/12 KB   15/41 KB   11/12 KB   15/41 KB   12/12 KB   4/28 KB   15/41 KB   12/12 KB   5/28 KB   15/41 KB   12/12 KB   9/28 KB   15/41 KB   12/12 KB   13/28 KB   15/41 KB   12/12 KB   14/28 KB   15/41 KB   12/12 KB   14/28 KB   15/41 KB   12/12 KB   1/14 KB   14/28 KB   15/41 KB   12/12 KB   5/14 KB   14/28 KB   15/41 KB   12/12 KB   6/14 KB   14/28 KB   15/41 KB   12/12 KB   7/14 KB   14/28 KB   15/41 KB   12/12 KB   8/14 KB   14/28 KB   15/41 KB   12/12 KB   10/14 KB   14/28 KB   15/41 KB   12/12 KB   11/14 KB   14/28 KB   15/41 KB   12/12 KB   12/14 KB   14/28 KB   15/41 KB   12/12 KB   13/14 KB   14/28 KB   15/41 KB   12/12 KB   14/14 KB   14/28 KB   15/41 KB   12/12 KB   1/51 KB   14/14 KB   14/28 KB   15/41 KB   12/12 KB   5/51 KB   14/14 KB   14/28 KB   15/41 KB   12/12 KB   6/51 KB   14/14 KB   14/28 KB   15/41 KB   12/12 KB   7/51 KB   14/14 KB   14/28 KB   15/41 KB   12/12 KB   8/51 KB   14/14 KB   14/28 KB   15/41 KB   12/12 KB   10/51 KB   14/14 KB   14/28 KB   15/41 KB   12/12 KB   11/51 KB   14/14 KB   14/28 KB   15/41 KB   12/12 KB   12/51 KB   14/14 KB   14/28 KB   15/41 KB   12/12 KB   13/51 KB   14/14 KB   14/28 KB   17/41 KB   12/12 KB   13/51 KB   14/14 KB   14/28 KB   18/41 KB   12/12 KB   13/51 KB   14/14 KB   14/28 KB   19/41 KB   12/12 KB   13/51 KB   14/14 KB   14/28 KB   20/41 KB   12/12 KB   13/51 KB   14/14 KB   14/28 KB   21/41 KB   12/12 KB   13/51 KB   14/14 KB   14/28 KB   22/41 KB   12/12 KB   13/51 KB   14/14 KB   14/28 KB   24/41 KB   12/12 KB   13/51 KB   14/14 KB   14/28 KB   25/41 KB   12/12 KB   13/51 KB   14/14 KB   14/28 KB   26/41 KB   12/12 KB   13/51 KB   14/14 KB   14/28 KB   27/41 KB   12/12 KB   13/51 KB   14/14 KB   14/28 KB   28/41 KB   12/12 KB   13/51 KB   14/14 KB   14/28 KB   29/41 KB   12/12 KB   13/51 KB   14/14 KB   14/28 KB   31/41 KB   12/12 KB   13/51 KB   14/14 KB   14/28 KB   32/41 KB   12/12 KB   13/51 KB   14/14 KB   14/28 KB   33/41 KB   12/12 KB   13/51 KB   14/14 KB   14/28 KB   34/41 KB   12/12 KB   13/51 KB   14/14 KB   14/28 KB   35/41 KB   12/12 KB   13/51 KB   14/14 KB   14/28 KB   36/41 KB   12/12 KB   13/51 KB   14/14 KB   15/28 KB   36/41 KB   12/12 KB   13/51 KB   14/14 KB   17/28 KB   36/41 KB   12/12 KB   13/51 KB   14/14 KB   18/28 KB   36/41 KB   12/12 KB   13/51 KB   14/14 KB   19/28 KB   36/41 KB   12/12 KB   13/51 KB   14/14 KB   20/28 KB   36/41 KB   12/12 KB   13/51 KB   14/14 KB   21/28 KB   36/41 KB   12/12 KB   13/51 KB   14/14 KB   22/28 KB   36/41 KB   12/12 KB   13/51 KB   14/14 KB   24/28 KB   36/41 KB   12/12 KB   13/51 KB   14/14 KB   27/28 KB   36/41 KB   12/12 KB   13/51 KB   14/14 KB   28/28 KB   36/41 KB   12/12 KB   13/51 KB   14/14 KB                                                          Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.jar (12 KB at 21.5 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/jtidy/jtidy/4aug2000r7-dev/jtidy-4aug2000r7-dev.jar
+28/28 KB   36/41 KB   17/51 KB   14/14 KB              28/28 KB   36/41 KB   19/51 KB   14/14 KB   28/28 KB   36/41 KB   20/51 KB   14/14 KB   28/28 KB   36/41 KB   21/51 KB   14/14 KB   28/28 KB   36/41 KB   22/51 KB   14/14 KB   28/28 KB   36/41 KB   24/51 KB   14/14 KB   28/28 KB   36/41 KB   25/51 KB   14/14 KB                                               28/28 KB   36/41 KB   26/51 KB              Downloaded: http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar (14 KB at 37.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.7/plexus-utils-1.5.7.jar
+28/28 KB   36/41 KB   27/51 KB   28/28 KB   36/41 KB   28/51 KB   28/28 KB   36/41 KB   29/51 KB   28/28 KB   36/41 KB   31/51 KB   28/28 KB   38/41 KB   31/51 KB   28/28 KB   39/41 KB   31/51 KB   28/28 KB   40/41 KB   31/51 KB   28/28 KB   41/41 KB   31/51 KB   28/28 KB   41/41 KB   31/51 KB   1/135 KB   28/28 KB   41/41 KB   31/51 KB   5/135 KB   28/28 KB   41/41 KB   31/51 KB   8/135 KB   28/28 KB   41/41 KB   31/51 KB   11/135 KB   28/28 KB   41/41 KB   31/51 KB   12/135 KB   28/28 KB   41/41 KB   31/51 KB   13/135 KB   28/28 KB   41/41 KB   31/51 KB   14/135 KB   28/28 KB   41/41 KB   31/51 KB   15/135 KB   28/28 KB   41/41 KB   31/51 KB   17/135 KB   28/28 KB   41/41 KB   31/51 KB   18/135 KB   28/28 KB   41/41 KB   31/51 KB   19/135 KB   28/28 KB   41/41 KB   31/51 KB   20/135 KB   28/28 KB   41/41 KB   31/51 KB   21/135 KB   28/28 KB   41/41 KB   32/51 KB   21/135 KB   28/28 KB   41/41 KB   33/51 KB   21/135 KB   28/28 KB   41/41 KB   34/51 KB   21/135 KB   28/28 KB   41/41 KB   35/51 KB   21/135 KB   28/28 KB   41/41 KB   36/51 KB   21/135 KB   28/28 KB   41/41 KB   38/51 KB   21/135 KB   28/28 KB   41/41 KB   39/51 KB   21/135 KB   28/28 KB   41/41 KB   40/51 KB   21/135 KB   28/28 KB   41/41 KB   41/51 KB   21/135 KB   28/28 KB   41/41 KB   42/51 KB   21/135 KB   28/28 KB   41/41 KB   44/51 KB   21/135 KB   28/28 KB   41/41 KB   45/51 KB   21/135 KB   28/28 KB   41/41 KB   46/51 KB   21/135 KB   28/28 KB   41/41 KB   47/51 KB   21/135 KB   28/28 KB   41/41 KB   48/51 KB   21/135 KB   28/28 KB   41/41 KB   49/51 KB   21/135 KB   28/28 KB   41/41 KB   51/51 KB   21/135 KB   28/28 KB   41/41 KB   1/260 KB   51/51 KB   21/135 KB   28/28 KB   41/41 KB   5/260 KB   51/51 KB   21/135 KB   28/28 KB   41/41 KB   7/260 KB   51/51 KB   21/135 KB   28/28 KB   41/41 KB   8/260 KB   51/51 KB   21/135 KB   28/28 KB   41/41 KB   10/260 KB   51/51 KB   21/135 KB   28/28 KB   41/41 KB   11/260 KB   51/51 KB   21/135 KB   28/28 KB   41/41 KB   12/260 KB   51/51 KB   21/135 KB   28/28 KB   41/41 KB   13/260 KB   51/51 KB   21/135 KB   28/28 KB   41/41 KB   14/260 KB   51/51 KB   21/135 KB   28/28 KB   41/41 KB   15/260 KB   51/51 KB   21/135 KB   28/28 KB   41/41 KB   17/260 KB   51/51 KB   21/135 KB   28/28 KB   41/41 KB   18/260 KB   51/51 KB   21/135 KB   28/28 KB   41/41 KB   19/260 KB   51/51 KB   21/135 KB                                                            Downloaded: http://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2.jar (41 KB at 58.0 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.3/xstream-1.4.3.jar
+                                                         Downloaded: http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar (28 KB at 47.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+19/260 KB   51/51 KB   22/135 KB                         19/260 KB   51/51 KB   24/135 KB   19/260 KB   51/51 KB   25/135 KB   19/260 KB   51/51 KB   26/135 KB   19/260 KB   51/51 KB   27/135 KB   19/260 KB   51/51 KB   28/135 KB   19/260 KB   51/51 KB   29/135 KB   19/260 KB   51/51 KB   31/135 KB   19/260 KB   51/51 KB   32/135 KB   19/260 KB   51/51 KB   33/135 KB   19/260 KB   51/51 KB   34/135 KB   19/260 KB   51/51 KB   35/135 KB   19/260 KB   51/51 KB   36/135 KB   19/260 KB   51/51 KB   38/135 KB   19/260 KB   51/51 KB   39/135 KB   19/260 KB   51/51 KB   40/135 KB   19/260 KB   51/51 KB   41/135 KB   19/260 KB   51/51 KB   42/135 KB   19/260 KB   51/51 KB   43/135 KB   19/260 KB   51/51 KB   45/135 KB   19/260 KB   51/51 KB   46/135 KB   19/260 KB   51/51 KB   47/135 KB   19/260 KB   51/51 KB   48/135 KB   19/260 KB   51/51 KB   49/135 KB   19/260 KB   51/51 KB   51/135 KB   19/260 KB   51/51 KB   52/135 KB   19/260 KB   51/51 KB   53/135 KB   20/260 KB   51/51 KB   53/135 KB   21/260 KB   51/51 KB   53/135 KB   22/260 KB   51/51 KB   53/135 KB   24/260 KB   51/51 KB   53/135 KB   25/260 KB   51/51 KB   53/135 KB   26/260 KB   51/51 KB   53/135 KB   27/260 KB   51/51 KB   53/135 KB   28/260 KB   51/51 KB   53/135 KB   29/260 KB   51/51 KB   53/135 KB   31/260 KB   51/51 KB   53/135 KB   32/260 KB   51/51 KB   53/135 KB   33/260 KB   51/51 KB   53/135 KB   34/260 KB   51/51 KB   53/135 KB   35/260 KB   51/51 KB   53/135 KB   36/260 KB   51/51 KB   53/135 KB   38/260 KB   51/51 KB   53/135 KB   39/260 KB   51/51 KB   53/135 KB   40/260 KB   51/51 KB   53/135 KB   41/260 KB   51/51 KB   53/135 KB   42/260 KB   51/51 KB   53/135 KB   43/260 KB   51/51 KB   53/135 KB   45/260 KB   51/51 KB   53/135 KB   46/260 KB   51/51 KB   53/135 KB   47/260 KB   51/51 KB   53/135 KB                                      Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/2.4.3/maven-plugin-tools-api-2.4.3.jar (51 KB at 73.0 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+1/471 KB   47/260 KB   53/135 KB   5/471 KB   47/260 KB   53/135 KB   7/471 KB   47/260 KB   53/135 KB   8/471 KB   47/260 KB   53/135 KB   10/471 KB   47/260 KB   53/135 KB   11/471 KB   47/260 KB   53/135 KB   12/471 KB   47/260 KB   53/135 KB   13/471 KB   47/260 KB   53/135 KB   14/471 KB   47/260 KB   53/135 KB   15/471 KB   47/260 KB   53/135 KB   17/471 KB   47/260 KB   53/135 KB   18/471 KB   47/260 KB   53/135 KB   19/471 KB   47/260 KB   53/135 KB   20/471 KB   47/260 KB   53/135 KB   21/471 KB   47/260 KB   53/135 KB   22/471 KB   47/260 KB   53/135 KB   24/471 KB   47/260 KB   53/135 KB   25/471 KB   47/260 KB   53/135 KB   26/471 KB   47/260 KB   53/135 KB   26/471 KB   47/260 KB   54/135 KB   26/471 KB   47/260 KB   55/135 KB   26/471 KB   47/260 KB   56/135 KB   26/471 KB   47/260 KB   58/135 KB   26/471 KB   47/260 KB   59/135 KB   26/471 KB   47/260 KB   60/135 KB   26/471 KB   47/260 KB   61/135 KB   26/471 KB   47/260 KB   62/135 KB   26/471 KB   47/260 KB   63/135 KB   26/471 KB   47/260 KB   65/135 KB   26/471 KB   47/260 KB   66/135 KB   26/471 KB   47/260 KB   67/135 KB   26/471 KB   47/260 KB   68/135 KB   26/471 KB   47/260 KB   69/135 KB   26/471 KB   47/260 KB   70/135 KB   26/471 KB   47/260 KB   72/135 KB   26/471 KB   47/260 KB   73/135 KB   26/471 KB   47/260 KB   74/135 KB   26/471 KB   47/260 KB   75/135 KB   26/471 KB   47/260 KB   76/135 KB   26/471 KB   47/260 KB   77/135 KB   26/471 KB   47/260 KB   79/135 KB   26/471 KB   47/260 KB   80/135 KB   26/471 KB   47/260 KB   81/135 KB   26/471 KB   47/260 KB   82/135 KB   26/471 KB   47/260 KB   83/135 KB   26/471 KB   47/260 KB   85/135 KB   26/471 KB   47/260 KB   86/135 KB   26/471 KB   47/260 KB   87/135 KB   26/471 KB   47/260 KB   88/135 KB   26/471 KB   47/260 KB   89/135 KB   26/471 KB   47/260 KB   90/135 KB   26/471 KB   47/260 KB   92/135 KB   26/471 KB   47/260 KB   93/135 KB   26/471 KB   47/260 KB   94/135 KB   26/471 KB   47/260 KB   95/135 KB   26/471 KB   47/260 KB   96/135 KB   26/471 KB   47/260 KB   97/135 KB   26/471 KB   47/260 KB   99/135 KB   1/8 KB   26/471 KB   47/260 KB   99/135 KB   4/8 KB   26/471 KB   47/260 KB   99/135 KB   5/8 KB   26/471 KB   47/260 KB   99/135 KB   6/8 KB   26/471 KB   47/260 KB   99/135 KB   7/8 KB   26/471 KB   47/260 KB   99/135 KB   8/8 KB   26/471 KB   47/260 KB   99/135 KB   8/8 KB   26/471 KB   48/260 KB   99/135 KB   8/8 KB   26/471 KB   49/260 KB   99/135 KB   8/8 KB   26/471 KB   51/260 KB   99/135 KB   8/8 KB   26/471 KB   52/260 KB   99/135 KB   8/8 KB   26/471 KB   53/260 KB   99/135 KB   8/8 KB   26/471 KB   54/260 KB   99/135 KB   8/8 KB   26/471 KB   55/260 KB   99/135 KB   8/8 KB   26/471 KB   56/260 KB   99/135 KB   8/8 KB   26/471 KB   58/260 KB   99/135 KB   8/8 KB   26/471 KB   59/260 KB   99/135 KB   8/8 KB   26/471 KB   60/260 KB   99/135 KB   8/8 KB   26/471 KB   61/260 KB   99/135 KB   8/8 KB   26/471 KB   62/260 KB   99/135 KB   8/8 KB   26/471 KB   63/260 KB   99/135 KB   8/8 KB   26/471 KB   65/260 KB   99/135 KB   8/8 KB   26/471 KB   66/260 KB   99/135 KB   8/8 KB   26/471 KB   67/260 KB   99/135 KB   8/8 KB   26/471 KB   68/260 KB   99/135 KB   8/8 KB   26/471 KB   69/260 KB   99/135 KB   8/8 KB   26/471 KB   70/260 KB   99/135 KB   8/8 KB   26/471 KB   72/260 KB   99/135 KB   8/8 KB   26/471 KB   73/260 KB   99/135 KB   8/8 KB   26/471 KB   74/260 KB   99/135 KB   8/8 KB   26/471 KB   75/260 KB   99/135 KB   8/8 KB   26/471 KB   76/260 KB   99/135 KB   8/8 KB   26/471 KB   77/260 KB   99/135 KB   8/8 KB   26/471 KB   79/260 KB   99/135 KB   8/8 KB   26/471 KB   80/260 KB   99/135 KB   8/8 KB   26/471 KB   81/260 KB   99/135 KB   8/8 KB   26/471 KB   85/260 KB   99/135 KB   8/8 KB   26/471 KB   86/260 KB   99/135 KB   8/8 KB   26/471 KB   87/260 KB   99/135 KB   8/8 KB   26/471 KB   88/260 KB   99/135 KB   8/8 KB   26/471 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   1/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   5/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   6/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   7/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   8/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   10/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   11/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   12/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   13/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   14/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   15/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   17/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   18/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   19/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   20/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   21/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   22/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   24/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   26/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   28/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   29/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   33/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   37/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   38/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   39/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   42/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   43/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   47/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   48/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   52/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   53/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   56/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   58/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   60/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   61/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   99/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   100/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   101/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   102/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   103/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   104/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   106/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   107/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   108/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   109/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   110/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   111/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   113/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   114/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   115/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   116/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   117/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   118/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   120/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   121/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   122/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   123/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   124/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   126/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   127/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   128/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   129/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   130/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   131/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   133/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   134/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   89/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   90/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   92/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   93/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   94/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   95/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   96/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   97/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   100/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   101/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   102/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   103/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   104/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   106/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   107/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   108/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   109/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   110/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   111/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   113/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   114/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   115/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   116/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   117/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   118/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   120/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   121/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   122/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   123/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   124/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   126/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   127/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   128/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   129/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   130/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   131/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   133/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   134/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   135/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   136/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   137/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   141/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   142/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   144/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   145/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   148/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   149/260 KB   135/135 KB   8/8 KB   65/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   66/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   67/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   68/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   69/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   70/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   72/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   73/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   74/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   75/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   76/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   77/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   79/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   82/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   85/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   86/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   87/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   88/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   89/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   90/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   92/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   93/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   94/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   95/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   96/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   97/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   99/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   100/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   101/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   102/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   103/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   104/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   106/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   107/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   108/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   109/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   110/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   111/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   113/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   114/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   115/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   116/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   117/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   118/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   120/471 KB   25/25 KB   152/260 KB   135/135 KB   8/8 KB   121/471 KB   25/25 KB   152/260 KB   135/135 KB                                                              Downloaded: http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar (25 KB at 60.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4.jar
+                                                           Downloaded: http://repo.maven.apache.org/maven2/jtidy/jtidy/4aug2000r7-dev/jtidy-4aug2000r7-dev.jar (135 KB at 164.4 KB/sec)
+                                                           Downloaded: http://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar (8 KB at 11.7 KB/sec)
+121/471 KB   154/260 KB                                    121/471 KB   155/260 KB   121/471 KB   156/260 KB   121/471 KB   157/260 KB   121/471 KB   158/260 KB   121/471 KB   160/260 KB   121/471 KB   161/260 KB   121/471 KB   162/260 KB   121/471 KB   163/260 KB   121/471 KB   164/260 KB   121/471 KB   165/260 KB   121/471 KB   167/260 KB   121/471 KB   168/260 KB   121/471 KB   169/260 KB   121/471 KB   170/260 KB   121/471 KB   171/260 KB   121/471 KB   172/260 KB   121/471 KB   174/260 KB   121/471 KB   175/260 KB   121/471 KB   176/260 KB   121/471 KB   177/260 KB   121/471 KB   178/260 KB   121/471 KB   179/260 KB   121/471 KB   181/260 KB   121/471 KB   182/260 KB   121/471 KB   183/260 KB   121/471 KB   184/260 KB   121/471 KB   185/260 KB   121/471 KB   186/260 KB   121/471 KB   188/260 KB   121/471 KB   189/260 KB   121/471 KB   190/260 KB   121/471 KB   191/260 KB   121/471 KB   192/260 KB   121/471 KB   193/260 KB   121/471 KB   195/260 KB   121/471 KB   196/260 KB   121/471 KB   197/260 KB   121/471 KB   198/260 KB   121/471 KB   199/260 KB   121/471 KB   201/260 KB   121/471 KB   202/260 KB   121/471 KB   203/260 KB   121/471 KB   204/260 KB   121/471 KB   205/260 KB   121/471 KB   206/260 KB   121/471 KB   208/260 KB   121/471 KB   209/260 KB   121/471 KB   210/260 KB   121/471 KB   211/260 KB   121/471 KB   212/260 KB   121/471 KB   213/260 KB   121/471 KB   215/260 KB   121/471 KB   216/260 KB   122/471 KB   216/260 KB   123/471 KB   216/260 KB   124/471 KB   216/260 KB   126/471 KB   216/260 KB   127/471 KB   216/260 KB   128/471 KB   216/260 KB   129/471 KB   216/260 KB   130/471 KB   216/260 KB   131/471 KB   216/260 KB   133/471 KB   216/260 KB   134/471 KB   216/260 KB   135/471 KB   216/260 KB   136/471 KB   216/260 KB   137/471 KB   216/260 KB   138/471 KB   216/260 KB   140/471 KB   216/260 KB   141/471 KB   216/260 KB   142/471 KB   216/260 KB   143/471 KB   216/260 KB   144/471 KB   216/260 KB   145/471 KB   216/260 KB   147/471 KB   216/260 KB   148/471 KB   216/260 KB   149/471 KB   216/260 KB   150/471 KB   216/260 KB   151/471 KB   216/260 KB   152/471 KB   216/260 KB   154/471 KB   216/260 KB   155/471 KB   216/260 KB   156/471 KB   216/260 KB   157/471 KB   216/260 KB   158/471 KB   216/260 KB   160/471 KB   216/260 KB   161/471 KB   216/260 KB   162/471 KB   216/260 KB   163/471 KB   216/260 KB   164/471 KB   216/260 KB   165/471 KB   216/260 KB   167/471 KB   216/260 KB   168/471 KB   216/260 KB   169/471 KB   216/260 KB   170/471 KB   216/260 KB   171/471 KB   216/260 KB   172/471 KB   216/260 KB   174/471 KB   216/260 KB   175/471 KB   216/260 KB   176/471 KB   216/260 KB   177/471 KB   216/260 KB   178/471 KB   216/260 KB   179/471 KB   216/260 KB   181/471 KB   216/260 KB   182/471 KB   216/260 KB   183/471 KB   216/260 KB   183/471 KB   217/260 KB   183/471 KB   218/260 KB   183/471 KB   219/260 KB   183/471 KB   220/260 KB   183/471 KB   222/260 KB   183/471 KB   223/260 KB   183/471 KB   224/260 KB   183/471 KB   225/260 KB   183/471 KB   226/260 KB   183/471 KB   227/260 KB   183/471 KB   229/260 KB   183/471 KB   230/260 KB   183/471 KB   231/260 KB   183/471 KB   232/260 KB   183/471 KB   233/260 KB   183/471 KB   235/260 KB   183/471 KB   236/260 KB   183/471 KB   237/260 KB   183/471 KB   238/260 KB   183/471 KB   239/260 KB   183/471 KB   240/260 KB   183/471 KB   242/260 KB   183/471 KB   243/260 KB   183/471 KB   244/260 KB   183/471 KB   245/260 KB   183/471 KB   246/260 KB   183/471 KB   247/260 KB   183/471 KB   249/260 KB   183/471 KB   250/260 KB   183/471 KB   251/260 KB   183/471 KB   252/260 KB   183/471 KB   253/260 KB   183/471 KB   254/260 KB   183/471 KB   256/260 KB   183/471 KB   257/260 KB   183/471 KB   258/260 KB   183/471 KB   259/260 KB   183/471 KB   260/260 KB   183/471 KB   260/260 KB   1/256 KB   183/471 KB   260/260 KB   5/256 KB   183/471 KB   260/260 KB   6/256 KB   183/471 KB   260/260 KB   7/256 KB   183/471 KB   260/260 KB   10/256 KB   183/471 KB   260/260 KB   11/256 KB   183/471 KB   260/260 KB   12/256 KB   183/471 KB   260/260 KB   13/256 KB   183/471 KB   260/260 KB   14/256 KB   183/471 KB   260/260 KB   15/256 KB   183/471 KB   260/260 KB   17/256 KB   183/471 KB   260/260 KB   18/256 KB   183/471 KB   260/260 KB   19/256 KB   183/471 KB   260/260 KB   20/256 KB   183/471 KB   260/260 KB   21/256 KB   183/471 KB   260/260 KB   22/256 KB   183/471 KB   260/260 KB   24/256 KB   183/471 KB   260/260 KB   25/256 KB   183/471 KB   260/260 KB   26/256 KB   183/471 KB   260/260 KB   27/256 KB   183/471 KB   260/260 KB   28/256 KB   183/471 KB   260/260 KB   29/256 KB   183/471 KB   260/260 KB   31/256 KB   183/471 KB   260/260 KB   32/256 KB   183/471 KB   260/260 KB   33/256 KB   183/471 KB   260/260 KB   34/256 KB   184/471 KB   260/260 KB   34/256 KB   185/471 KB   260/260 KB   34/256 KB   186/471 KB   260/260 KB   34/256 KB   188/471 KB   260/260 KB   34/256 KB   189/471 KB   260/260 KB   34/256 KB   190/471 KB   260/260 KB   34/256 KB   191/471 KB   260/260 KB   34/256 KB   192/471 KB   260/260 KB   34/256 KB   193/471 KB   260/260 KB   34/256 KB   195/471 KB   260/260 KB   34/256 KB   196/471 KB   260/260 KB   34/256 KB   197/471 KB   260/260 KB   34/256 KB   198/471 KB   260/260 KB   34/256 KB   199/471 KB   260/260 KB   34/256 KB   201/471 KB   260/260 KB   34/256 KB   202/471 KB   260/260 KB   34/256 KB   203/471 KB   260/260 KB   34/256 KB   204/471 KB   260/260 KB   34/256 KB   205/471 KB   260/260 KB   34/256 KB   206/471 KB   260/260 KB   34/256 KB   208/471 KB   260/260 KB   34/256 KB   209/471 KB   260/260 KB   34/256 KB   210/471 KB   260/260 KB   34/256 KB   211/471 KB   260/260 KB   34/256 KB   212/471 KB   260/260 KB   34/256 KB   213/471 KB   260/260 KB   34/256 KB   215/471 KB   260/260 KB   34/256 KB   216/471 KB   260/260 KB   34/256 KB   217/471 KB   260/260 KB   34/256 KB   218/471 KB   260/260 KB   34/256 KB   219/471 KB   260/260 KB   34/256 KB   220/471 KB   260/260 KB   34/256 KB   222/471 KB   260/260 KB   34/256 KB   223/471 KB   260/260 KB   34/256 KB   224/471 KB   260/260 KB   34/256 KB   225/471 KB   260/260 KB   34/256 KB   226/471 KB   260/260 KB   34/256 KB   227/471 KB   260/260 KB   34/256 KB   229/471 KB   260/260 KB   34/256 KB   230/471 KB   260/260 KB   34/256 KB   231/471 KB   260/260 KB   34/256 KB   232/471 KB   260/260 KB   34/256 KB   233/471 KB   260/260 KB   34/256 KB   235/471 KB   260/260 KB   34/256 KB   236/471 KB   260/260 KB   34/256 KB   237/471 KB   260/260 KB   34/256 KB   238/471 KB   260/260 KB   34/256 KB   239/471 KB   260/260 KB   34/256 KB   240/471 KB   260/260 KB   34/256 KB   242/471 KB   260/260 KB   34/256 KB   243/471 KB   260/260 KB   34/256 KB   244/471 KB   260/260 KB   34/256 KB   245/471 KB   260/260 KB   34/256 KB   246/471 KB   260/260 KB   34/256 KB   247/471 KB   260/260 KB   34/256 KB   249/471 KB   260/260 KB   34/256 KB   250/471 KB   260/260 KB   34/256 KB   251/471 KB   260/260 KB   34/256 KB   252/471 KB   260/260 KB   34/256 KB   253/471 KB   260/260 KB   34/256 KB   254/471 KB   260/260 KB   34/256 KB   256/471 KB   260/260 KB   34/256 KB   257/471 KB   260/260 KB   34/256 KB   258/471 KB   260/260 KB   34/256 KB   259/471 KB   260/260 KB   34/256 KB   260/471 KB   260/260 KB   34/256 KB   261/471 KB   260/260 KB   34/256 KB   263/471 KB   260/260 KB   34/256 KB   264/471 KB   260/260 KB   34/256 KB   265/471 KB   260/260 KB   34/256 KB   266/471 KB   260/260 KB   34/256 KB   267/471 KB   260/260 KB   34/256 KB   268/471 KB   260/260 KB   34/256 KB   270/471 KB   260/260 KB   34/256 KB   271/471 KB   260/260 KB   34/256 KB   272/471 KB   260/260 KB   34/256 KB   273/471 KB   260/260 KB   34/256 KB   274/471 KB   260/260 KB   34/256 KB   276/471 KB   260/260 KB   34/256 KB   277/471 KB   260/260 KB   34/256 KB   278/471 KB   260/260 KB   34/256 KB   279/471 KB   260/260 KB   34/256 KB   280/471 KB   260/260 KB   34/256 KB                                         Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.7/plexus-utils-1.5.7.jar (260 KB at 214.6 KB/sec)
+281/471 KB   34/256 KB                283/471 KB   34/256 KB   284/471 KB   34/256 KB   285/471 KB   34/256 KB   286/471 KB   34/256 KB   287/471 KB   34/256 KB   288/471 KB   34/256 KB   291/471 KB   34/256 KB   292/471 KB   34/256 KB   293/471 KB   34/256 KB   294/471 KB   34/256 KB   295/471 KB   34/256 KB   297/471 KB   34/256 KB   298/471 KB   34/256 KB   299/471 KB   34/256 KB   300/471 KB   34/256 KB   301/471 KB   34/256 KB   302/471 KB   34/256 KB   304/471 KB   34/256 KB   305/471 KB   34/256 KB   306/471 KB   34/256 KB   307/471 KB   34/256 KB   308/471 KB   34/256 KB   310/471 KB   34/256 KB   311/471 KB   34/256 KB   312/471 KB   34/256 KB   313/471 KB   34/256 KB   314/471 KB   34/256 KB   315/471 KB   34/256 KB   317/471 KB   34/256 KB   318/471 KB   34/256 KB   319/471 KB   34/256 KB   320/471 KB   34/256 KB   321/471 KB   34/256 KB   322/471 KB   34/256 KB   324/471 KB   34/256 KB   325/471 KB   34/256 KB   326/471 KB   34/256 KB   327/471 KB   34/256 KB   328/471 KB   34/256 KB   329/471 KB   34/256 KB   331/471 KB   34/256 KB   332/471 KB   34/256 KB   333/471 KB   34/256 KB   334/471 KB   34/256 KB   335/471 KB   34/256 KB   336/471 KB   34/256 KB   338/471 KB   34/256 KB   339/471 KB   34/256 KB   340/471 KB   34/256 KB   341/471 KB   34/256 KB   342/471 KB   34/256 KB   343/471 KB   34/256 KB   345/471 KB   34/256 KB   346/471 KB   34/256 KB   347/471 KB   34/256 KB   348/471 KB   34/256 KB   349/471 KB   34/256 KB   351/471 KB   34/256 KB   352/471 KB   34/256 KB   353/471 KB   34/256 KB   354/471 KB   34/256 KB   355/471 KB   34/256 KB   356/471 KB   34/256 KB   358/471 KB   34/256 KB   359/471 KB   34/256 KB   360/471 KB   34/256 KB   361/471 KB   34/256 KB   362/471 KB   34/256 KB   363/471 KB   34/256 KB   365/471 KB   34/256 KB   366/471 KB   34/256 KB   366/471 KB   35/256 KB   367/471 KB   35/256 KB   368/471 KB   35/256 KB   368/471 KB   36/256 KB   368/471 KB   38/256 KB   369/471 KB   38/256 KB   370/471 KB   38/256 KB   372/471 KB   38/256 KB   372/471 KB   39/256 KB   372/471 KB   40/256 KB   372/471 KB   41/256 KB   372/471 KB   42/256 KB   372/471 KB   43/256 KB   372/471 KB   45/256 KB   373/471 KB   45/256 KB   374/471 KB   45/256 KB   375/471 KB   45/256 KB   375/471 KB   46/256 KB   375/471 KB   47/256 KB   375/471 KB   48/256 KB   376/471 KB   48/256 KB   377/471 KB   48/256 KB   379/471 KB   48/256 KB   379/471 KB   49/256 KB   379/471 KB   51/256 KB   379/471 KB   52/256 KB   380/471 KB   52/256 KB   381/471 KB   52/256 KB   382/471 KB   52/256 KB   383/471 KB   52/256 KB   385/471 KB   52/256 KB   386/471 KB   52/256 KB   386/471 KB   53/256 KB   386/471 KB   54/256 KB   386/471 KB   55/256 KB   387/471 KB   55/256 KB   388/471 KB   55/256 KB   389/471 KB   55/256 KB   389/471 KB   56/256 KB   389/471 KB   58/256 KB   389/471 KB   59/256 KB   389/471 KB   60/256 KB   389/471 KB   61/256 KB   389/471 KB   62/256 KB   390/471 KB   62/256 KB   392/471 KB   62/256 KB   393/471 KB   62/256 KB   394/471 KB   62/256 KB   395/471 KB   62/256 KB   396/471 KB   62/256 KB   396/471 KB   63/256 KB   396/471 KB   65/256 KB   396/471 KB   66/256 KB   396/471 KB   67/256 KB   396/471 KB   68/256 KB   396/471 KB   69/256 KB   397/471 KB   69/256 KB   399/471 KB   69/256 KB   400/471 KB   69/256 KB   400/471 KB   70/256 KB   400/471 KB   72/256 KB   400/471 KB   73/256 KB   400/471 KB   74/256 KB   400/471 KB   75/256 KB   400/471 KB   76/256 KB   400/471 KB   77/256 KB   400/471 KB   79/256 KB   400/471 KB   80/256 KB   400/471 KB   81/256 KB   400/471 KB   82/256 KB   400/471 KB   83/256 KB   401/471 KB   83/256 KB   402/471 KB   83/256 KB   403/471 KB   83/256 KB   404/471 KB   83/256 KB   406/471 KB   83/256 KB   407/471 KB   83/256 KB   408/471 KB   83/256 KB   409/471 KB   83/256 KB   410/471 KB   83/256 KB   411/471 KB   83/256 KB   413/471 KB   83/256 KB   414/471 KB   83/256 KB   415/471 KB   83/256 KB   416/471 KB   83/256 KB   417/471 KB   83/256 KB   418/471 KB   83/256 KB   420/471 KB   83/256 KB   421/471 KB   83/256 KB   422/471 KB   83/256 KB   423/471 KB   83/256 KB   424/471 KB   83/256 KB   426/471 KB   83/256 KB   427/471 KB   83/256 KB   428/471 KB   83/256 KB   429/471 KB   83/256 KB   430/471 KB   83/256 KB   431/471 KB   83/256 KB   433/471 KB   83/256 KB   434/471 KB   83/256 KB   435/471 KB   83/256 KB   436/471 KB   83/256 KB   437/471 KB   83/256 KB   438/471 KB   83/256 KB   440/471 KB   83/256 KB   441/471 KB   83/256 KB   442/471 KB   83/256 KB   443/471 KB   83/256 KB   444/471 KB   83/256 KB   445/471 KB   83/256 KB   447/471 KB   83/256 KB   448/471 KB   83/256 KB   449/471 KB   83/256 KB   450/471 KB   83/256 KB   451/471 KB   83/256 KB   452/471 KB   83/256 KB   454/471 KB   83/256 KB   455/471 KB   83/256 KB   456/471 KB   83/256 KB   457/471 KB   83/256 KB   458/471 KB   83/256 KB   460/471 KB   83/256 KB   461/471 KB   83/256 KB   462/471 KB   83/256 KB   463/471 KB   83/256 KB   464/471 KB   83/256 KB   465/471 KB   83/256 KB   467/471 KB   83/256 KB   468/471 KB   83/256 KB   469/471 KB   83/256 KB   470/471 KB   83/256 KB   471/471 KB   83/256 KB   471/471 KB   85/256 KB   471/471 KB   86/256 KB   471/471 KB   87/256 KB   471/471 KB   88/256 KB   471/471 KB   89/256 KB   471/471 KB   90/256 KB   471/471 KB   92/256 KB   471/471 KB   93/256 KB   471/471 KB   94/256 KB   471/471 KB   95/256 KB   471/471 KB   96/256 KB   471/471 KB   97/256 KB   471/471 KB   99/256 KB   471/471 KB   100/256 KB   471/471 KB   101/256 KB   471/471 KB   102/256 KB   471/471 KB   103/256 KB   471/471 KB   104/256 KB   471/471 KB   106/256 KB   471/471 KB   107/256 KB   471/471 KB   108/256 KB   471/471 KB   109/256 KB   471/471 KB   110/256 KB   471/471 KB   111/256 KB   471/471 KB   113/256 KB   471/471 KB   114/256 KB   471/471 KB   115/256 KB   471/471 KB   116/256 KB   471/471 KB   117/256 KB   471/471 KB   118/256 KB   471/471 KB   120/256 KB   471/471 KB   121/256 KB   471/471 KB   122/256 KB   471/471 KB   123/256 KB   471/471 KB   124/256 KB   471/471 KB   126/256 KB   471/471 KB   127/256 KB   471/471 KB   128/256 KB   471/471 KB   129/256 KB   471/471 KB   130/256 KB   471/471 KB   131/256 KB   471/471 KB   133/256 KB   471/471 KB   134/256 KB   471/471 KB   135/256 KB   471/471 KB   136/256 KB   471/471 KB   137/256 KB   471/471 KB   138/256 KB   471/471 KB   140/256 KB   471/471 KB   141/256 KB   471/471 KB   142/256 KB   471/471 KB   143/256 KB   471/471 KB   144/256 KB   471/471 KB   145/256 KB   471/471 KB   147/256 KB                             Downloaded: http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.3/xstream-1.4.3.jar (471 KB at 329.9 KB/sec)
+148/256 KB                149/256 KB   150/256 KB   151/256 KB   152/256 KB   154/256 KB   155/256 KB   156/256 KB   157/256 KB   158/256 KB   160/256 KB   161/256 KB   162/256 KB   163/256 KB   164/256 KB   165/256 KB   167/256 KB   168/256 KB   169/256 KB   170/256 KB   171/256 KB   172/256 KB   174/256 KB   175/256 KB   176/256 KB   177/256 KB   178/256 KB   179/256 KB   181/256 KB   182/256 KB   183/256 KB   184/256 KB   185/256 KB   186/256 KB   188/256 KB   189/256 KB   190/256 KB   191/256 KB   192/256 KB   193/256 KB   195/256 KB   196/256 KB   197/256 KB   198/256 KB   199/256 KB   201/256 KB   202/256 KB   203/256 KB   204/256 KB   205/256 KB   206/256 KB   208/256 KB   209/256 KB   210/256 KB   211/256 KB   212/256 KB   213/256 KB   215/256 KB   216/256 KB   217/256 KB   218/256 KB   219/256 KB   220/256 KB   222/256 KB   223/256 KB   224/256 KB   225/256 KB   226/256 KB   227/256 KB   229/256 KB   230/256 KB   231/256 KB   232/256 KB   233/256 KB   235/256 KB   236/256 KB   237/256 KB   238/256 KB   239/256 KB   240/256 KB   242/256 KB   243/256 KB   244/256 KB   245/256 KB   246/256 KB   247/256 KB   249/256 KB   250/256 KB   251/256 KB   252/256 KB   253/256 KB   254/256 KB   256/256 KB   256/256 KB                Downloaded: http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4.jar (256 KB at 168.0 KB/sec)
+[INFO] 
+Effective POMs, after inheritance, interpolation, and profiles are applied:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ====================================================================== -->
+<!--                                                                        -->
+<!-- Generated by Maven Help Plugin on 2013-11-19T10:23:10                  -->
+<!-- See: http://maven.apache.org/plugins/maven-help-plugin/                -->
+<!--                                                                        -->
+<!-- ====================================================================== -->
+
+<!-- ====================================================================== -->
+<!--                                                                        -->
+<!-- Effective POM for project                                              -->
+<!-- 'org.codehaus.sonar:example-java-maven:jar:1.0-SNAPSHOT'               -->
+<!--                                                                        -->
+<!-- ====================================================================== -->
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.codehaus.sonar</groupId>
+  <artifactId>example-java-maven</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <name>Simple Java Maven Project</name>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <sonar.language>java</sonar.language>
+  </properties>
+  <repositories>
+    <repository>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+      <id>central</id>
+      <name>Central Repository</name>
+      <url>http://repo.maven.apache.org/maven2</url>
+    </repository>
+  </repositories>
+  <pluginRepositories>
+    <pluginRepository>
+      <releases>
+        <updatePolicy>never</updatePolicy>
+      </releases>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+      <id>central</id>
+      <name>Central Repository</name>
+      <url>http://repo.maven.apache.org/maven2</url>
+    </pluginRepository>
+  </pluginRepositories>
+  <build>
+    <sourceDirectory>D:\sonarQube\SonarSource-sonar-examples-31e504b\projects\languages\java\maven\java-maven-simple\src\main\java</sourceDirectory>
+    <scriptSourceDirectory>D:\sonarQube\SonarSource-sonar-examples-31e504b\projects\languages\java\maven\java-maven-simple\src\main\scripts</scriptSourceDirectory>
+    <testSourceDirectory>D:\sonarQube\SonarSource-sonar-examples-31e504b\projects\languages\java\maven\java-maven-simple\src\test\java</testSourceDirectory>
+    <outputDirectory>D:\sonarQube\SonarSource-sonar-examples-31e504b\projects\languages\java\maven\java-maven-simple\target\classes</outputDirectory>
+    <testOutputDirectory>D:\sonarQube\SonarSource-sonar-examples-31e504b\projects\languages\java\maven\java-maven-simple\target\test-classes</testOutputDirectory>
+    <resources>
+      <resource>
+        <directory>D:\sonarQube\SonarSource-sonar-examples-31e504b\projects\languages\java\maven\java-maven-simple\src\main\resources</directory>
+      </resource>
+    </resources>
+    <testResources>
+      <testResource>
+        <directory>D:\sonarQube\SonarSource-sonar-examples-31e504b\projects\languages\java\maven\java-maven-simple\src\test\resources</directory>
+      </testResource>
+    </testResources>
+    <directory>D:\sonarQube\SonarSource-sonar-examples-31e504b\projects\languages\java\maven\java-maven-simple\target</directory>
+    <finalName>example-java-maven-1.0-SNAPSHOT</finalName>
+    <pluginManagement>
+      <plugins>
+        <plugin>
+          <artifactId>maven-antrun-plugin</artifactId>
+          <version>1.3</version>
+        </plugin>
+        <plugin>
+          <artifactId>maven-assembly-plugin</artifactId>
+          <version>2.2-beta-5</version>
+        </plugin>
+        <plugin>
+          <artifactId>maven-dependency-plugin</artifactId>
+          <version>2.1</version>
+        </plugin>
+        <plugin>
+          <artifactId>maven-release-plugin</artifactId>
+          <version>2.0</version>
+        </plugin>
+      </plugins>
+    </pluginManagement>
+    <plugins>
+      <plugin>
+        <artifactId>maven-clean-plugin</artifactId>
+        <version>2.4.1</version>
+        <executions>
+          <execution>
+            <id>default-clean</id>
+            <phase>clean</phase>
+            <goals>
+              <goal>clean</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-install-plugin</artifactId>
+        <version>2.3.1</version>
+        <executions>
+          <execution>
+            <id>default-install</id>
+            <phase>install</phase>
+            <goals>
+              <goal>install</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-resources-plugin</artifactId>
+        <version>2.5</version>
+        <executions>
+          <execution>
+            <id>default-resources</id>
+            <phase>process-resources</phase>
+            <goals>
+              <goal>resources</goal>
+            </goals>
+          </execution>
+          <execution>
+            <id>default-testResources</id>
+            <phase>process-test-resources</phase>
+            <goals>
+              <goal>testResources</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>2.10</version>
+        <executions>
+          <execution>
+            <id>default-test</id>
+            <phase>test</phase>
+            <goals>
+              <goal>test</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>2.3.2</version>
+        <executions>
+          <execution>
+            <id>default-testCompile</id>
+            <phase>test-compile</phase>
+            <goals>
+              <goal>testCompile</goal>
+            </goals>
+          </execution>
+          <execution>
+            <id>default-compile</id>
+            <phase>compile</phase>
+            <goals>
+              <goal>compile</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-jar-plugin</artifactId>
+        <version>2.3.2</version>
+        <executions>
+          <execution>
+            <id>default-jar</id>
+            <phase>package</phase>
+            <goals>
+              <goal>jar</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-deploy-plugin</artifactId>
+        <version>2.7</version>
+        <executions>
+          <execution>
+            <id>default-deploy</id>
+            <phase>deploy</phase>
+            <goals>
+              <goal>deploy</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-site-plugin</artifactId>
+        <version>3.0</version>
+        <executions>
+          <execution>
+            <id>default-site</id>
+            <phase>site</phase>
+            <goals>
+              <goal>site</goal>
+            </goals>
+            <configuration>
+              <outputDirectory>D:\sonarQube\SonarSource-sonar-examples-31e504b\projects\languages\java\maven\java-maven-simple\target\site</outputDirectory>
+              <reportPlugins>
+                <reportPlugin>
+                  <groupId>org.apache.maven.plugins</groupId>
+                  <artifactId>maven-project-info-reports-plugin</artifactId>
+                </reportPlugin>
+              </reportPlugins>
+            </configuration>
+          </execution>
+          <execution>
+            <id>default-deploy</id>
+            <phase>site-deploy</phase>
+            <goals>
+              <goal>deploy</goal>
+            </goals>
+            <configuration>
+              <outputDirectory>D:\sonarQube\SonarSource-sonar-examples-31e504b\projects\languages\java\maven\java-maven-simple\target\site</outputDirectory>
+              <reportPlugins>
+                <reportPlugin>
+                  <groupId>org.apache.maven.plugins</groupId>
+                  <artifactId>maven-project-info-reports-plugin</artifactId>
+                </reportPlugin>
+              </reportPlugins>
+            </configuration>
+          </execution>
+        </executions>
+        <configuration>
+          <outputDirectory>D:\sonarQube\SonarSource-sonar-examples-31e504b\projects\languages\java\maven\java-maven-simple\target\site</outputDirectory>
+          <reportPlugins>
+            <reportPlugin>
+              <groupId>org.apache.maven.plugins</groupId>
+              <artifactId>maven-project-info-reports-plugin</artifactId>
+            </reportPlugin>
+          </reportPlugins>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+  <reporting>
+    <outputDirectory>D:\sonarQube\SonarSource-sonar-examples-31e504b\projects\languages\java\maven\java-maven-simple\target\site</outputDirectory>
+  </reporting>
+</project>
+
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 36.391s
+[INFO] Finished at: Tue Nov 19 10:23:10 IST 2013
+[INFO] Final Memory: 10M/215M
+[INFO] ------------------------------------------------------------------------
